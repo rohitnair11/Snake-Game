@@ -7,4 +7,10 @@ This is a simple Snake Game built using the SDL library. The game can be played 
 The program is separated into different functions for each task and also multiple control structures are used. The player data is stored in an external file called `records.txt` and also the data is read from it. The code is present in `record.cpp` file.  
 
 
+## Dependencies for Running Locally
+* cmake >= 3.7
+* make >= 4.1
+* SDL2 >= 2.0
+* gcc/g++ >= 5.4
+
 
